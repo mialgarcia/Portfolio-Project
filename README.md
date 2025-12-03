@@ -26,7 +26,4 @@ Through this project, I learned how essential clean and well-organized data is i
 
 ---
 
-## Projects
-
-- **Launching Your Digital Brand** — A portfolio README and simple static site to present projects and professional background.
 

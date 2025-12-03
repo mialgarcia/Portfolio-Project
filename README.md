@@ -1,6 +1,5 @@
 # Mia Garcia — Portfolio
 
-![USF Campus](images/usf-campus.jpg)
 
 **Mia Garcia**
 
@@ -29,12 +28,3 @@ Understanding how to present myself online is important, and this assignment hel
 
 - **Launching Your Digital Brand** — A portfolio README and simple static site to present projects and professional background.
 
-## GitHub Pages
-
-I added a minimal site in the `docs/` folder (`docs/index.html`). To publish this as a GitHub Pages site:
-
-1. Go to your repository Settings → Pages.
-2. Under "Source", select the `main`/`master` branch and the `/docs` folder, then Save.
-3. The site will be available at `https://mialgarcia.github.io/Portfolio-Project/` after a few minutes.
-
-If you prefer, I can try to enable Pages automatically using the GitHub CLI; let me know if you want me to attempt that.

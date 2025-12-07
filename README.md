@@ -5,7 +5,7 @@
 
 Finance Major at the University of South Florida
 
-Hi! I'm Mia. I enjoy learning how financial systems work and developing skills that will help me in corporate finance and investment analysis. This repository is part of my "Launching Your Digital Brand" project, where I'm building a professional online presence and getting comfortable using GitHub.
+Hi! I'm Mia. I enjoy learning how financial systems work and developing skills that will help me in corporate finance and investment analysis. This repository is part of my portfolio project, where I'm building a professional online presence and getting comfortable using GitHub.
 
 ---
 
